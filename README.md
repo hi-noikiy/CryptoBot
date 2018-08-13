@@ -1,1 +1,1 @@
-# CryotoBot
+# CryptoBot
