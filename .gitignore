@@ -1,1 +1,5 @@
 config/keys.json
+algorithms
+__pycache__
+test.py
+logs
